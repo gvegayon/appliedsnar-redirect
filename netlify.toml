@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://book.ggv.cl/*"
+  to = "https://book.ggvy.cl/:splat"
+  status = 301
+  force = true
